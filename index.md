@@ -6,7 +6,7 @@
       <p><b>Computer Science and Technology</b></p>
       <p><b>Tianjin University of Science and Technology</b></p>
       <p><b> Mail：<br/>
-      <img src="/mail.png" width="20%"></b></p>
+      raoyingtust@163.com</b></p>
     </td>
     <td width="25%">
       <img src="/Profile.jpg" width="100%">   
