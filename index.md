@@ -14,7 +14,7 @@
   </tr>
 </table>
 
-Profile: [English Version]("此处填写GitHub超链接，不需要引号")
+Profile: [English Version](https://github.com/Momo-2000/Momo-2000.github.io/blob/main/Resume.pdf)
 [履歴書](https://github.com/Momo-2000/Momo-2000.github.io/blob/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf)
 
 ## Background
