@@ -15,7 +15,7 @@
 </table>
 
 Profile: [English Version]("此处填写GitHub超链接，不需要引号")
-[履歴書]("此处填写GitHub超链接，不需要引号")
+[履歴書](https://github.com/Momo-2000/Momo-2000.github.io/blob/main/%E5%B1%A5%E6%AD%B4%E6%9B%B8.pdf)
 
 ## Background
 Bachelor Degree, Computer Science and Technology, Tianjin University of Science and Technology　　　 Sep 2017 - Jun 2021  
