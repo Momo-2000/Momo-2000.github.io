@@ -88,4 +88,5 @@ Programming Languages: C, Python, MySQL, HTML, JavaScript, jQuery, PHP, PhotoSho
 ### Languages
 Languages: Native in Chinese; Proficient in English; (CET-4, TOEIC 710) Fluent in Japanese (JLPT N2)   
 ### Personal Interests
-"Type your personal interests" 
+"Running, skiing, mountain climbing, watching football games.
+Cooking, reading, bathings" 
