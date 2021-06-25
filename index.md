@@ -21,7 +21,7 @@ Profile: [English Version](https://github.com/Momo-2000/Momo-2000.github.io/blob
 Bachelor Degree, Computer Science and Technology, Tianjin University of Science and Technology　　　 Sep 2017 - Jun 2021  
 
 ## Research Interests
-"Write down your research interests"  
+"Communication design, dialogue system, chatbot, NLP"  
 
 ## Honors and Awards
 China Netcom Military-Civil Integration Development Forum Excellent Volunteer　　　 Oct 2018  
@@ -89,4 +89,4 @@ Programming Languages: C, Python, MySQL, HTML, JavaScript, jQuery, PHP, PhotoSho
 Languages: Native in Chinese; Proficient in English; (CET-4, TOEIC 710) Fluent in Japanese (JLPT N2)   
 ### Personal Interests
 "Running, skiing, mountain climbing, watching football games.
-Cooking, reading, bathings" 
+Cooking, reading, bathing" 
